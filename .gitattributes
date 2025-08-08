@@ -1,0 +1,2 @@
+image/vendor.img filter=lfs diff=lfs merge=lfs -text
+image/system.img filter=lfs diff=lfs merge=lfs -text
